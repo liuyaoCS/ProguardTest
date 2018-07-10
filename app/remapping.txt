@@ -1,0 +1,6 @@
+com.example.liuyao.proguardtest.MainActivity -> com.example.liuyao.proguardtest.MainActivity:
+    void <init>() -> <init>
+    void onCreate(android.os.Bundle) -> a
+test.Add -> test.ad
+    void <init>() -> <init>
+    int add(int,int) -> agz
